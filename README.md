@@ -1,1 +1,2 @@
 # loja-virtual
+autenticando Readme.
