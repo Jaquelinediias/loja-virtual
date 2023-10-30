@@ -1,4 +1,4 @@
 # loja-virtual
 autenticando Readme.
 novo teste.
-alteração via github web.
+alteração via github web.2
